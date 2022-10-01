@@ -1,0 +1,19 @@
+{
+    "Name": "Googly Eyes",
+    "InternalName": "GooglyEyes",
+    "Author": "Buckly",
+    "Version": "1.0",
+    "Description": "Desecrates the textures of single and double membranes.",
+    "LongDescription": "",
+    "Icon": "EyedSingle.png",
+    "InfoUrl": null,
+    "License": "MIT",
+    "RecommendedThriveVersion": "0.5.10.0",
+    "MinimumThriveVersion": "0.5.9.0",
+    "MaximumThriveVersion": "",
+    "PckToLoad": "GooglyEyes.pck",
+    "ModAssembly": "",
+    "AssemblyModClass": "",
+    "UseAutoHarmony": false,
+    "RequiresRestart": false
+}
