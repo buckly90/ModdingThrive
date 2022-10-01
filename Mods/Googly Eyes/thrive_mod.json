@@ -1,0 +1,14 @@
+{
+    "Name": "Googly Eyes",
+    "InternalName": "GooglyEyes",
+    "Author": "Buckly",
+    "Version": "1.0",
+    "Description": "Desecrates the membrane textures for your perverse enjoyment",
+    "Icon": "EyedSingle.png",
+    "InfoUrl": "https://github.com/Revolutionary-Games/ThriveMods",
+    "License": "MIT",
+    "RecommendedThriveVersion": "0.5.9.0",
+    "MinimumThriveVersion": "0.5.9.0",
+    "PckToLoad": "GooglyEyes.pck",
+    "RequiresRestart": true
+}
